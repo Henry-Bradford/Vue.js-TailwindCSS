@@ -12,7 +12,7 @@
             </h2>
             <p class="mt-4 text-lg leading-relaxed text-blueGray-500">
               Vue Notus is Free and Open Source. It does not change any of the
-              CSS from
+              CSS
               <a
                 href="https://tailwindcss.com/?ref=creativetim"
                 class="text-blueGray-600"
